@@ -10,5 +10,6 @@ atau kamu mau [traktir saya kopi](https://saweria.co/ekhiw)
 **ekhiw/ekhiw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 ### Status github saya
-![](https://github-readme-stats.vercel.app/api?username=ekhiw&show_icons=true&count_private=true&line_height=40)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ekhiw&hide=html)
+![](https://github-readme-stats.vercel.app/api?username=ekhiw&show_icons=true&count_private=true&theme=prussian&line_height=40)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ekhiw&layout=compact&theme=prussian&hide=html)
