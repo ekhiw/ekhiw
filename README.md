@@ -1,16 +1,14 @@
-### Hi there 👋
+###  Halo, nama saya Ekky Hermestian IW
+panggil saja ekhiw
+
+penasaran dengan pengalaman kerja saya?
+yuk cek di [linkedin](https://www.linkedin.com/in/ekhiw/)
+
+atau kamu mau [traktir saya kopi](https://saweria.co/ekhiw)
 
 <!--
-**ekhiw/ekhiw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ekhiw/ekhiw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Status github saya
+![](https://github-readme-stats.vercel.app/api?username=ekhiw&show_icons=true&count_private=true&line_height=40)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ekhiw&hide=html)
